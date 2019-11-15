@@ -3,9 +3,21 @@ Goal: Create a interactive message board for Jay Z fans to drop their favorite H
 
 
 
-Installation
-Clone repo
-run npm install
-Usage
-run npm run savage
-Navigate to localhost:300
+
+
+
+Installation:
+1) Clone repo
+2)run npm install
+
+
+
+
+
+
+
+
+
+Usage:
+1) run npm run savage
+2) Navigate to localhost:300
